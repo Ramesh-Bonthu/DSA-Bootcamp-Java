@@ -11,7 +11,7 @@
 ## Easy
 - [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) completed
 - [Majority Element](https://leetcode.com/problems/majority-element/)  completed
-- [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+- [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)  completed
 - [Missing Number](https://leetcode.com/problems/missing-number/) completed
 - [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) completed
 - [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
@@ -19,7 +19,7 @@
 - [Assign Cookies](https://leetcode.com/problems/assign-cookies/) 
 - [Array Partition I](https://leetcode.com/problems/array-partition-i/)
 - [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)
-- [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
+- [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) completed
 - [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)
 - [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)
 - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
@@ -36,7 +36,7 @@
 - [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/)
 - [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/)
 - [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)
-- [Find all numbers disappeared in an array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
+- [Find all numbers disappeared in an array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) completed
 - [Set Mismatch](https://leetcode.com/problems/set-mismatch/)
 - [2Sum](https://leetcode.com/problems/two-sum/)
 
@@ -51,8 +51,8 @@
 - [Sort List](https://leetcode.com/problems/sort-list/)
 - [Largest Number](https://leetcode.com/problems/largest-number/)
 - [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
-- [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
-- [Find all Duplicates in an array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
+- [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) completed
+- [Find all Duplicates in an array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) completed
 
 ## Hard
 - [First missing Positive](https://leetcode.com/problems/first-missing-positive/)
