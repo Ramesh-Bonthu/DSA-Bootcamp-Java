@@ -9,14 +9,14 @@
 # Questions
 
 ## Easy
-- [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
-- [Majority Element](https://leetcode.com/problems/majority-element/)
+- [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) completed
+- [Majority Element](https://leetcode.com/problems/majority-element/)  completed
 - [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
-- [Missing Number](https://leetcode.com/problems/missing-number/)
-- [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
+- [Missing Number](https://leetcode.com/problems/missing-number/) completed
+- [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) completed
 - [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
 - [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)
-- [Assign Cookies](https://leetcode.com/problems/assign-cookies/)
+- [Assign Cookies](https://leetcode.com/problems/assign-cookies/) 
 - [Array Partition I](https://leetcode.com/problems/array-partition-i/)
 - [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)
 - [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
