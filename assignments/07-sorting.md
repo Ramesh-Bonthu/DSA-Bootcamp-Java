@@ -38,7 +38,7 @@
 - [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)
 - [Find all numbers disappeared in an array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) completed
 - [Set Mismatch](https://leetcode.com/problems/set-mismatch/) completed on 29-07-25 
-- [2Sum](https://leetcode.com/problems/two-sum/)
+- [2Sum](https://leetcode.com/problems/two-sum/) completed on 29-07-25 
 
 ## Medium
 - [3Sum](https://leetcode.com/problems/3sum/)
