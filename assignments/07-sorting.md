@@ -35,7 +35,7 @@
 - [Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/)
 - [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/)
 - [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/)
-- [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/) completed
+- [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/) 
 - [Find all numbers disappeared in an array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) completed
 - [Set Mismatch](https://leetcode.com/problems/set-mismatch/) completed on 29-07-25 
 - [2Sum](https://leetcode.com/problems/two-sum/) completed on 29-07-25 
@@ -50,10 +50,11 @@
 - [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)
 - [Sort List](https://leetcode.com/problems/sort-list/)
 - [Largest Number](https://leetcode.com/problems/largest-number/)
-- [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+- [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) completed
 - [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) completed on 28-07-25 
 - [Find all Duplicates in an array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) completed on 28-07-25 
 
 ## Hard
 - [First missing Positive](https://leetcode.com/problems/first-missing-positive/) completed on 29-07-25 
+
 
