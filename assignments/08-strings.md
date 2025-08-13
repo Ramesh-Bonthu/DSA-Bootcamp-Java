@@ -11,7 +11,7 @@
 - [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/) completed
 - [Check if two strings are equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) completed
 - [To Lower Case](https://leetcode.com/problems/to-lower-case/) completed
-- [Determine if string halves are alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/)
+- [Determine if string halves are alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) completed
 - [Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/)
 - [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/)
 - [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)
@@ -19,7 +19,7 @@
 - [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)
 - [Implement strStr()](https://leetcode.com/problems/implement-strstr/)
 - [Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)
-- [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+- [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) completed
 - [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
 - [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 - [Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring/)
@@ -66,4 +66,5 @@
 # Additionally
 
 - [Click "Show problem tags" and do questions that have tags for things we have learnt so far only.](https://leetcode.com/tag/string/)
+
 
